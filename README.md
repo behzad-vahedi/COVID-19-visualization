@@ -4,7 +4,7 @@ This repository contains the code for mapping spatiotemporal patters of COVID-19
 
 County Level COVID-19  data are downloaded from usafacts.org on May 2nd, 2020. 
 
-* Created by Behzad Vahedi (vahedi.behzad@gmail.com) *
+*Created by Behzad Vahedi (vahedi.behzad@gmail.com)*
 
 
 ### Map of Cumulative Number of COVID-19 Cases in US Counties
